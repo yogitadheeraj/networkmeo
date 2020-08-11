@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "699306437586",
+    "firebase_url": "https://locationshare-c03c3.firebaseio.com",
+    "project_id": "locationshare-c03c3",
+    "storage_bucket": "locationshare-c03c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699306437586:android:884308c7619bd4188fb60b",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699306437586-3t1ru7o3pd45lghk253o57cv2kjlvfdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOgoLylPHAXfFrzLQ62wTb7tSOgqdiQI"
+        },
+        {
+          "current_key": "AIzaSyDIpyB7YU9Zjhl0EQG1GxCas2LZROPX6-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699306437586-3t1ru7o3pd45lghk253o57cv2kjlvfdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
